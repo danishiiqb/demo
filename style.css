@@ -361,7 +361,7 @@ a:visited {
   padding-top: 4rem;
 }
 .sec4 > div {
-  width: 40%;
+  width: 42%;
   position: relative;
 }
 .indCard {
@@ -430,7 +430,10 @@ a:visited {
 .next {
   position: relative;
   top: 3rem;
-  width: 70%;
+  width: 39% !important;
+}
+.next p {
+  margin: 0.9rem 0;
 }
 .next h3 {
   font-size: 1.7rem;
